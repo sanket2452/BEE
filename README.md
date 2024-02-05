@@ -5,4 +5,5 @@ An Electrical Engineering application using C++ with Object-Oriented Programming
 - **Technologies used:** C++, Object Oriented Programming
 
 ## Simulator Images
-
+![Prototype 1](https://github.com/sanket2452/BEE/blob/main/1.png)
+![Prototype 2](https://github.com/sanket2452/BEE/blob/main/2.png)
